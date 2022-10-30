@@ -4,7 +4,7 @@
 - 🌱 Estou começando no ramo da tecnologia 
 - Meu [email](Robertaaliimaa2006@gmail.com)
 - Estou aprendendo a trabalhar com linguagens:
-
+[!texto](
 
 <!---
 ROBERTA2006/ROBERTA2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
