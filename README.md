@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ROBERTA2006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sobre mim
+- 👋  Oi, Sou **@ROBERTA2006**
+- 👀 Tenho interesse em linguagens de programação.
+- 🌱 Estou começando no ramo da tecnologia 
+- Meu [email](Robertaaliimaa2006@gmail.com)
+- Estou aprendendo a trabalhar com linguagens:
+
 
 <!---
 ROBERTA2006/ROBERTA2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
